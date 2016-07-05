@@ -1,4 +1,4 @@
-#Node.js Beacon
+#Node.js Beacon Development Kit (NBDK) [![GitHub license](https://img.shields.io/badge/license-mit-blue.svg)](https://raw.githubusercontent.com/mcupak/beacon-javascript/develop/LICENSE)
 
 ##Contents
 
